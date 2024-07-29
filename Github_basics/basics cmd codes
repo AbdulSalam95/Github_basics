@@ -2,6 +2,7 @@ general codes
 to go inside a repository : cd "repository name"
 to come out a repository  : cd ..
 to pull the data          : get pull
+to show the branches in the repository : git branch -a
 
 To make change to the repository already created
 to add a file             : git add "file name"
