@@ -1,0 +1,21 @@
+general codes
+to go inside a repository : cd "repository name"
+to come out a repository  : cd ..
+to pull the data          : get pull
+
+To make change to the repository already created
+to add a file             : git add "file name"
+to add more files         : git add .
+to check status           : git status
+to add commit to changes  : git commit -m "commit need to add"
+to push change to github  : git push origin main
+the above is same for some modification in files
+                  for delecting a file 
+
+To upload new repository by crating file in our computer first
+first create a file in the folder in desktop
+to get the folder into the vs code : git init
+to add file : git add "file to added"
+to make commit : git commit -m "commit"
+to push to github : create file name same as crated in github
+                  : git remote add origin "paste the github link"
